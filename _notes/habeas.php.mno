@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_habeas" value="name:id;datatype:int,name:nombres;datatype:string,name:apellidos;datatype:string,name:empresa;datatype:string,name:cargo;datatype:string,name:cedula;datatype:int,name:correo;datatype:string,name:telefono;datatype:int,name:acepto;datatype:int" />
+</info>
